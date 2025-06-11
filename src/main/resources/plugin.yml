@@ -1,0 +1,5 @@
+name: DarkSyncPlugin
+version: '${project.version}'
+main: dev.d4rknight.darksyncplugin.DarkSyncPlugin
+api-version: '1.21'
+author: D4rkNight

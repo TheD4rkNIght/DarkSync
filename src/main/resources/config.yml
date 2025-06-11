@@ -1,0 +1,17 @@
+# DarkSync Configuration
+
+mysql:
+  host: localhost
+  port: 3306
+  database: darksync
+  user: root
+  password: your_password_here
+
+redis:
+  enabled: false
+  host: localhost
+  port: 6379
+
+logging:
+  # Available levels: ERROR, INFO, DEBUG
+  level: INFO
